@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnAdd"
+        android:title="ADD"></item>
+    <item
+        android:id="@+id/mnDelete"
+        android:title="DELETE"></item>
+    <item
+        android:id="@+id/mnExit"
+        android:title="EXIT"></item>
+
+</menu>
