@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/contextDelete"
+        android:title="Delete"/>
+    <item
+        android:id="@+id/contextSave"
+        android:title="Save"/>
+    <item
+        android:id="@+id/contextEdit"
+        android:title="Edit"/>
+</menu>
